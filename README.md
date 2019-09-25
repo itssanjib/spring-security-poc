@@ -1,2 +1,2 @@
 # spring-security-poc
-POC on spring security
+POC on Spring Security
